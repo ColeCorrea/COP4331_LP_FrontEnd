@@ -1,0 +1,113 @@
+body{
+    justify-content: center;
+    font-weight: 400;
+    font-size: large;
+}
+.loginForm{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    border-radius: 1em;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.container{
+    max-height: 745px;
+    max-width: 600px;
+    margin: 100px auto;
+    border-radius: 20px;
+    background-color: #e4e4e4;
+}
+label{
+    margin-top: 20px;
+}
+.email{
+    margin-left: auto;
+    margin-right: auto;
+}
+.password{
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    padding-bottom: 5px;
+}
+.navbar{
+    background-color: #e4e4e4;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.btn2{
+    border-radius: 5px;
+    background-color: #0d6efd;
+    color:white;
+    border-color: transparent;
+}
+.form-check-input{
+    padding-left: auto;
+}
+.form-inline{
+    justify-content: end;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display:flex;
+    margin-right: 5px;
+}
+.search{
+    margin-right: 5px;
+    border-style:solid;
+}
+.container2{
+    max-height: 745px;
+    max-width: 600px;
+    border-radius: 20px;
+    margin: auto;
+    background-color: #e4e4e4;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+.container3{
+    max-height: 745px;
+    max-width: 95%;
+    border-radius: 20px;
+    background-color: #e4e4e4;
+    margin:auto;
+}
+.listheading{
+    justify-self: center;
+}
+nav{
+    background-color: #e4e4e4;
+}
+.btn3{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor:pointer;
+    margin-left: 5px;
+}
+.btn4{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor:pointer;
+    margin-right: 5px;
+    border-radius: 5px;
+    background-color: #0d6efd;
+    color:white;
+    border-color: transparent;
+    padding: 8px;
+    text-decoration: none;
+}
